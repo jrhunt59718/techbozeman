@@ -89,7 +89,7 @@ post_date = "September 4, 2018"
 description = "Job description / summary"
 skills = "skill 1, skill 2, etc"
 company = "Company Name"
-companuy_url = "https://www.example.com"
+company_url = "https://www.example.com"
 city = "Bozeman, MT"
 ```
 
