@@ -1,6 +1,6 @@
 # Tech Bozeman
 
-Tech Bozeman website, covering the tech community in Bozeman, Montana.
+Tech Bozeman website, covering the tech community in Bozeman, Montana. Follow us on [twitter](https://twitter.com/techbozeman).
 
 Built with [Hugo](https://gohugo.io/), a static site generator. It uses the
 [hyalite](https://github.com/techbozeman/hyalite) hugo theme.
@@ -62,7 +62,7 @@ All fields are required.
 
 Events should be added to [data/events.toml](data/events.toml) in order by event date ascending (oldest to newest).
 
-Whenever jobs are past, they should be switched from [[event]] to [[past_event]] and moved down below active [[event]] items in order of most recent past events to oldest.
+Whenever events are past, they should be switched from [[event]] to [[past_event]] and moved down below active [[event]] items in order of most recent past events to oldest.
 
 Format for adding an event:
 ```toml
