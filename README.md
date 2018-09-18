@@ -120,6 +120,12 @@ All fields are required.
 
 [Bryce Johnston](https://github.com/beaorn)
 
+## Contributors
+
+- [Brian Maher](https://github.com/brianpmaher)
+- [Bob Wall](https://github.com/BobWall23)
+- [Leif Wickland](https://github.com/leifwickland)
+
 ## License
 
 Tech Bozeman is licensed under the [MIT license](LICENSE.md)
