@@ -60,7 +60,9 @@ All fields are required.
 
 ### Adding Events
 
-Events should be added to [data/events.toml](data/events.toml) in order by event date ascending.
+Events should be added to [data/events.toml](data/events.toml) in order by event date ascending (oldest to newest).
+
+Whenever jobs are past, they should be switched from [[event]] to [[past_event]] and moved down below active [[event]] items in order of most recent past events to oldest.
 
 Format for adding an event:
 ```toml
@@ -78,7 +80,9 @@ All fields are required.
 
 ### Adding Jobs
 
-Jobs should be added to [data/jobs.toml](data/jobs.toml) in order by job posted date descending.
+Jobs should be added to [data/jobs.toml](data/jobs.toml) in order by job posted date descending (newest to oldest).
+
+Whenever jobs are filled, they should be removed from [data/jobs.toml](data/jobs.toml).
 
 Format for adding a job:
 ```toml
@@ -113,7 +117,7 @@ image = "os_picture.jpg"
 
 All fields are required.
 
-- **badge**: Primary type of space. Use one of the following: `Coworking`, `Office Space`, `Makerspace1`
+- **badge**: Primary type of space. Use one of the following: `Coworking`, `Office Space`, `Makerspace`
 - **image**: 400x200 jpg image of the space placed into [static/images/](static/images/)
 
 ## Author
