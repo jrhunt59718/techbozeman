@@ -1,31 +1,4 @@
 [[event]]
-title = "Bozeman JS Meetup"
-date = "Wednesday, September 19, 2018"
-url = "https://www.meetup.com/Bozeman-JavaScript-Meetup/events/cjqrvlyxmbbc/"
-description = "This is the main event of the Bozeman JS Meetup. Happening every third Thursday of the month at 7pm we convene to talk JavaScript, share projects and ideas, pair program and get to know other JavaScripters."
-location = "Location on Meetup"
-map_url = "https://www.meetup.com/Bozeman-JavaScript-Meetup/events/cjqrvlyxmbbc/"
-city = "Bozeman, MT"
-
-[[event]]
-title = "Livingston Tech Community (Montana Programmers)"
-date = "Wednesday, September 19, 2018"
-url = "https://www.meetup.com/Montana-Programmers/events/254674142/"
-description = "Topics: Pensieve project: Adding your own notes about content in your Kodi media server. 3D modeling with solidpython and openscad. 3D printing nodes for a geodesic dome"
-location = "Moon River Cake Shop/The Soup Bar"
-map_url = "https://www.google.com/maps/search/?api=1&query=45.661380%2C-110.560524"
-city = "Livingston, MT"
-
-[[event]]
-title = "Open Build Evening (Bozeman MakerSpace)"
-date = "Thursday, September 20, 2018"
-url = "https://www.meetup.com/bozemanmakers/events/kvtzbpyxmbbc/"
-description = "Open Builds are open to the entire community! If you have a project that you need help with or just want to see what the Makerspace is all about, please stop by. We want to hear about your projects, and we can talk about our past projects, classes, and contests."
-location = "Bozeman Makerspace"
-map_url = "https://www.google.com/maps/search/?api=1&query=7647+Shedhorn+Drive+Unit+A%2C+Bozeman%2C+MT%2C+59718%2C+us"
-city = "Bozeman, MT"
-
-[[event]]
 title = "Early Stage Montana Statewide Showcase"
 date = "Saturday, September 22, 2018"
 url = "https://www.eventbrite.com/e/early-stage-montana-statewide-showcase-tickets-47853773926?aff=efbneb"
@@ -59,6 +32,33 @@ url = "https://www.meetup.com/Bozeman-Blockchain/events/254336639/"
 description = "Bi-Weekly meetup to talk crypto and meet local crypto people"
 location = "Bozeman Public Library - small conference room"
 map_url = "https://www.google.com/maps/place/626+E+Main+St,+Bozeman,+MT+59715/@45.6785765,-111.0270906,17z/data=!4m5!3m4!1s0x5345445eebf8d59b:0x337118f2f410a9d8!8m2!3d45.6785765!4d-111.0270906"
+city = "Bozeman, MT"
+
+[[past_event]]
+title = "Open Build Evening (Bozeman MakerSpace)"
+date = "Thursday, September 20, 2018"
+url = "https://www.meetup.com/bozemanmakers/events/kvtzbpyxmbbc/"
+description = "Open Builds are open to the entire community! If you have a project that you need help with or just want to see what the Makerspace is all about, please stop by. We want to hear about your projects, and we can talk about our past projects, classes, and contests."
+location = "Bozeman Makerspace"
+map_url = "https://www.google.com/maps/search/?api=1&query=7647+Shedhorn+Drive+Unit+A%2C+Bozeman%2C+MT%2C+59718%2C+us"
+city = "Bozeman, MT"
+
+[[past_event]]
+title = "Livingston Tech Community (Montana Programmers)"
+date = "Wednesday, September 19, 2018"
+url = "https://www.meetup.com/Montana-Programmers/events/254674142/"
+description = "Topics: Pensieve project: Adding your own notes about content in your Kodi media server. 3D modeling with solidpython and openscad. 3D printing nodes for a geodesic dome"
+location = "Moon River Cake Shop/The Soup Bar"
+map_url = "https://www.google.com/maps/search/?api=1&query=45.661380%2C-110.560524"
+city = "Livingston, MT"
+
+[[past_event]]
+title = "Bozeman JS Meetup"
+date = "Wednesday, September 19, 2018"
+url = "https://www.meetup.com/Bozeman-JavaScript-Meetup/events/cjqrvlyxmbbc/"
+description = "This is the main event of the Bozeman JS Meetup. Happening every third Thursday of the month at 7pm we convene to talk JavaScript, share projects and ideas, pair program and get to know other JavaScripters."
+location = "Location on Meetup"
+map_url = "https://www.meetup.com/Bozeman-JavaScript-Meetup/events/cjqrvlyxmbbc/"
 city = "Bozeman, MT"
 
 [[past_event]]

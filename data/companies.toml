@@ -17,7 +17,7 @@ name = "Dataminr"
 url = "https://www.dataminr.com"
 color = "#10223e"
 description = "Dataminr's clients are the first to know about critical events and breaking information, enabling them to act faster and stay one step ahead."
-badge =""
+badge = ""
 
 [[company]]
 name = "Figure"
@@ -31,123 +31,130 @@ name = "Foundant Technologies"
 url = "https://www.foundant.com"
 color = "#2D3B4A"
 description = "Foundant Technologies provides over 1600 grantmakers, grantseekers and community foundations with practical, affordable online grant management software."
-badge ="Bozeman HQ"
+badge = "Bozeman HQ"
 
 [[company]]
 name = "Hoplite Industries"
 url = "https://www.hopliteindustries.com"
 color = "#222222"
 description = "A Leading Edge Cyber Security Company with unique patented technologies designed to unify and harden your defenses and protect your business from costly damages."
-badge ="Bozeman HQ"
+badge = "Bozeman HQ"
 
 [[company]]
 name = "IronCore Labs"
 url = "https://www.ironcorelabs.com"
 color = "#111111"
 description = "IronCore is a development platform for end-to-end data control, privacy, and security."
-badge =""
+badge = ""
+
+[[company]]
+name = "Little Apple Technologies"
+url = "https://www.littleappletech.com"
+color = "#f44336"
+description = "Locally owned Montana Company based in Manhattan, MT. We provide high speed internet at end of road locations even in areas where there is no fiber or cable."
+badge = "Manhattan HQ"
 
 [[company]]
 name = "onXmaps"
 url = "https://www.onxmaps.com"
 color = "#f30"
 description = "Know where you stand with the onX Hunt, the most accurate hunting GPS tech on the market with land ownership maps that work offline."
-badge =""
+badge = ""
 
 [[company]]
 name = "Montana State University"
 url = "http://www.montana.edu/"
 color = "#14639c"
 description = "Montana State University, the state's land-grant institution, educates students, creates knowledge and art, and serves communities by integrating learning, discovery and engagement."
-badge ="Bozeman HQ"
+badge = "Bozeman HQ"
 
 [[company]]
 name = "Montana Instruments"
 url = "https://www.montanainstruments.com"
 color = "#00A9E0"
 description = "Specializing in precise and innovative variable temperature measurement solutions, Montana Instruments designs closed cycle optical cryostats that make researchers more effective."
-badge ="Bozeman HQ"
+badge = "Bozeman HQ"
 
 [[company]]
 name = "Murdoch’s Ranch & Home Supply"
 url = "https://www.murdochs.com"
 color = "#483f0f"
 description = "Murdoch's is your modern day mercantile with the best selection of clothing, footwear, tools, pet supplies, fencing, power equipment and more."
-badge ="Bozeman HQ"
+badge = "Bozeman HQ"
 
 [[company]]
 name = "Oracle"
 url = "https://www.oracle.com"
 color = "#f80000"
 description = "Oracle offers a comprehensive and fully integrated stack of cloud applications and platform services."
-badge =""
+badge = ""
 
 [[company]]
 name = "PrintingForLess"
 url = "https://www.printingforless.com"
 color = "#1265aa"
 description = "Guaranteed highest quality color printing from any file for custom brochures, catalogs, postcards, business cards and more."
-badge ="Livingston HQ"
+badge = "Livingston HQ"
 
 [[company]]
 name = "Pulsara"
 url = "https://www.pulsara.com"
 color = "#a0252c"
 description = "Pulsara is real-time team communication platform across healthcare entities."
-badge ="Bozeman HQ"
+badge = "Bozeman HQ"
 
 [[company]]
 name = "Quiq"
 url = "https://goquiq.com"
 color = "#404552"
 description = "Quiq's business messaging software solutions help you connect with your customers via SMS, FB Messenger, Web Chat, Kik and In-App messaging."
-badge ="Bozeman HQ"
+badge = "Bozeman HQ"
 
 [[company]]
 name = "Rubicon Project"
 url = "https://rubiconproject.com"
 color = "#E31937"
 description = "Engineering the world's largest independent advertising marketplace connecting more than one billion users globally."
-badge =""
+badge = ""
 
 [[company]]
 name = "Salient Technologies"
 url = "https://salient-tech.com"
 color = "#151515"
 description = "Salient Technologies, Inc. is a product design consulting company located in Bozeman, MT."
-badge ="Bozeman HQ"
+badge = "Bozeman HQ"
 
 [[company]]
 name = "Schedulicity"
 url = "https://www.schedulicity.com"
 color = "#20303a"
 description = "Schedulicity is the leading online appointment, class and workshop scheduling system and platform for discovering and booking local services in more than 50 different industries."
-badge ="Bozeman HQ"
+badge = "Bozeman HQ"
 
 [[company]]
 name = "Wisetail"
 url = "https://www.wisetail.com"
 color = "#60CE94"
 description = "Wisetail's LMS powers great places to work. Our award-winning LMS is quickly establishing itself as a staple in the online learning industry."
-badge ="Bozeman HQ"
+badge = "Bozeman HQ"
 
 [[company]]
 name = "wolfSSL"
 url = "https://www.wolfssl.com"
 color = "#1fbeca"
 description = "wolfSSL is an embedded SSL/TLS library providing secure communication for IoT, smart grid, connected home, routers, applications, games, phones, and more."
-badge =""
+badge = ""
 
 [[company]]
 name = "Workiva"
 url = "https://www.workiva.com"
 color = "#00CC33"
 description = "Workiva is a leading cloud platform for data collaboration, reporting, and compliance."
-badge =""
+badge = ""
 
 [[company]]
 name = "Zoot Enterprises"
 url = "https://zootsolutions.com"
 color = "#425aa8"
 description = "Zoot Enterprises is a global provider of advanced origination, acquisition and decision management solutions for financial institutions."
-badge ="Bozeman HQ"
+badge = "Bozeman HQ"
