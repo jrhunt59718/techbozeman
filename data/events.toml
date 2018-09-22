@@ -1,13 +1,4 @@
 [[event]]
-title = "Early Stage Montana Statewide Showcase"
-date = "Saturday, September 22, 2018"
-url = "https://www.eventbrite.com/e/early-stage-montana-statewide-showcase-tickets-47853773926?aff=efbneb"
-description = "Join us at the Museum of the Rockies in Bozeman, MT on Sept 22 for the inaugural Early Stage Montana Statewide Showcase! Come support early stage and emerging technology businesses in Montana, networking and education."
-location = "Museum of the Rockies"
-map_url = "https://www.google.com/maps/place/Museum+of+the+Rockies/@45.6587314,-111.0470212,17z/data=!4m12!1m6!3m5!1s0x5345451b69b8bbd5:0x53ba18ef074a0758!2sMuseum+of+the+Rockies!8m2!3d45.6587314!4d-111.0448325!3m4!1s0x5345451b69b8bbd5:0x53ba18ef074a0758!8m2!3d45.6587314!4d-111.0448325"
-city = "Bozeman, MT"
-
-[[event]]
 title = "Dreamforce Keynote Viewing Party! (Bozeman Salesforce Developer Group)"
 date = "Tuesday, September 25, 2018"
 url = "https://www.meetup.com/Bozeman-Salesforce-Developer-Group/events/254614070/"
@@ -32,6 +23,33 @@ url = "https://www.meetup.com/Bozeman-Blockchain/events/254336639/"
 description = "Bi-Weekly meetup to talk crypto and meet local crypto people"
 location = "Bozeman Public Library - small conference room"
 map_url = "https://www.google.com/maps/place/626+E+Main+St,+Bozeman,+MT+59715/@45.6785765,-111.0270906,17z/data=!4m5!3m4!1s0x5345445eebf8d59b:0x337118f2f410a9d8!8m2!3d45.6785765!4d-111.0270906"
+city = "Bozeman, MT"
+
+[[event]]
+title = "How To Add Data Privacy To Your Angular App (Montana Programmers)"
+date = "Wednesday, October 10, 2018"
+url = "https://www.meetup.com/Montana-Programmers/events/254871790/"
+description = "Madison Kerndt is going to present on privacy in Angular apps. Even the coolest user interfaces won’t cover for apps that are insecure and leak private information. As JavaScript developers, we need to build apps that stand up to the demands of our industry and protects the data and privacy of our users."
+location = "Foundant Technologies"
+map_url = "https://www.google.com/maps/search/?api=1&query=143+Willow+Peak+Drive%2C+Bozeman%2C+MT%2C+us"
+city = "Bozeman, MT"
+
+[[event]]
+title = "Bozeman JS Meetup"
+date = "Wednesday, October 17, 2018"
+url = "https://www.meetup.com/Bozeman-JavaScript-Meetup/events/xwhmgqyxnbxb/"
+description = "This is the main event of the Bozeman JS Meetup. Happening every third Wednesday of the month at 7pm we convene to talk JavaScript, share projects and ideas, pair program and get to know other JavaScripters."
+location = "Location on Meetup"
+map_url = "https://www.meetup.com/Bozeman-JavaScript-Meetup/events/xwhmgqyxnbxb/"
+city = "Bozeman, MT"
+
+[[past_event]]
+title = "Early Stage Montana Statewide Showcase"
+date = "Saturday, September 22, 2018"
+url = "https://www.eventbrite.com/e/early-stage-montana-statewide-showcase-tickets-47853773926?aff=efbneb"
+description = "Join us at the Museum of the Rockies in Bozeman, MT on Sept 22 for the inaugural Early Stage Montana Statewide Showcase! Come support early stage and emerging technology businesses in Montana, networking and education."
+location = "Museum of the Rockies"
+map_url = "https://www.google.com/maps/place/Museum+of+the+Rockies/@45.6587314,-111.0470212,17z/data=!4m12!1m6!3m5!1s0x5345451b69b8bbd5:0x53ba18ef074a0758!2sMuseum+of+the+Rockies!8m2!3d45.6587314!4d-111.0448325!3m4!1s0x5345451b69b8bbd5:0x53ba18ef074a0758!8m2!3d45.6587314!4d-111.0448325"
 city = "Bozeman, MT"
 
 [[past_event]]
