@@ -1,4 +1,44 @@
 [[job]]
+title = "Senior DevOps Engineer"
+job_url = "https://boards.greenhouse.io/figure/jobs/4071208002"
+post_date = "September 25, 2018"
+description = "Responsibilties: Driven producer of innovative tech solutions adhering to iterative principles. Originate, champion and execute on new ideas for projects. Collaborate with project leads and and other software developers across multiple teams and projects."
+skills = "DevOps, infrastructure management, security, scaling, kubernetes"
+company = "Figure"
+company_url = "https://www.figure.com/careers"
+city = "Bozeman, MT"
+
+[[job]]
+title = "Senior Front End Engineer"
+job_url = "https://boards.greenhouse.io/figure/jobs/4075124002"
+post_date = "September 25, 2018"
+description = "Responsibilties: Create beautiful web interfaces and interactions. Originate, champion, and execute on new ideas for projects. Collaborate with project leads and other software developers across multiple teams and projects."
+skills = "JavaScript, JavaScript frameworks, semantic HTML, responsive web design, ES6, React, Redux, front-end tooling"
+company = "Figure"
+company_url = "https://www.figure.com/careers"
+city = "Bozeman, MT"
+
+[[job]]
+title = "Senior Software Engineer"
+job_url = "https://boards.greenhouse.io/figure/jobs/4065459002"
+post_date = "September 25, 2018"
+description = "Responsibilties: Driven producer of innovative tech solutions adhering to iterative principles. Originate, champion and execute on new ideas for projects. Collaborate with project leads and and other software developers across multiple teams and projects."
+skills = "JVM, Java, Kotlin, Kafka, React, CI"
+company = "Figure"
+company_url = "https://www.figure.com/careers"
+city = "Bozeman, MT"
+
+[[job]]
+title = "Software Engineer"
+job_url = "https://boards.greenhouse.io/figure/jobs/4026425002"
+post_date = "September 25, 2018"
+description = "Responsibilties: Full development life-cycle from project spec to deployment. Originate, champion and execute on new ideas for projects. Collaborate with project leads and and other software developers across multiple teams and projects."
+skills = "Java, MySQL, Spring, Kotlin, JavaScript, CI, Scala"
+company = "Figure"
+company_url = "https://www.figure.com/careers"
+city = "Bozeman, MT"
+
+[[job]]
 title = "Software Development Engineer - C++"
 job_url = "https://rubiconproject.com/careers/job/?gh_jid=1331930"
 post_date = "September 18, 2018"

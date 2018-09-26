@@ -1,13 +1,4 @@
 [[event]]
-title = "Dreamforce Keynote Viewing Party! (Bozeman Salesforce Developer Group)"
-date = "Tuesday, September 25, 2018"
-url = "https://www.meetup.com/Bozeman-Salesforce-Developer-Group/events/254614070/"
-description = "Join us to watch Mark Benioff's keynote at Dreamforce! Food and beverages provided."
-location = "CoWork Bozeman"
-map_url = "https://www.google.com/maps/search/?api=1&query=27+East+Main+Street%2C+Bozeman%2C+mt%2C+59715%2C+us"
-city = "Bozeman, MT"
-
-[[event]]
 title = "TBD (Bozeman Laravel PHP Meetup)"
 date = "Wednesday, October 3, 2018"
 url = "https://www.meetup.com/Bozeman-Laravel/events/rkfqdnyxnbfb/"
@@ -41,6 +32,24 @@ url = "https://www.meetup.com/Bozeman-JavaScript-Meetup/events/xwhmgqyxnbxb/"
 description = "This is the main event of the Bozeman JS Meetup. Happening every third Wednesday of the month at 7pm we convene to talk JavaScript, share projects and ideas, pair program and get to know other JavaScripters."
 location = "Location on Meetup"
 map_url = "https://www.meetup.com/Bozeman-JavaScript-Meetup/events/xwhmgqyxnbxb/"
+city = "Bozeman, MT"
+
+[[event]]
+title = "commonFont Drink-up (Montana Programmers)"
+date = "Tuesday, October 23, 2018"
+url = "https://www.meetup.com/Montana-Programmers/events/255003027/"
+description = "commonFont is graciously hosting our next Bozeman drink-up. Come and enjoy some food and drinks and learn about the commonFont team!"
+location = "commonFont"
+map_url = "https://www.google.com/maps/place/220+W+Lamme+St,+Bozeman,+MT+59715/@45.6811363,-111.0430949,17z/data=!3m1!4b1!4m5!3m4!1s0x534544503f5d5f07:0x24f64c5a1a479465!8m2!3d45.6811326!4d-111.0409062"
+city = "Bozeman, MT"
+
+[[past_event]]
+title = "Dreamforce Keynote Viewing Party! (Bozeman Salesforce Developer Group)"
+date = "Tuesday, September 25, 2018"
+url = "https://www.meetup.com/Bozeman-Salesforce-Developer-Group/events/254614070/"
+description = "Join us to watch Mark Benioff's keynote at Dreamforce! Food and beverages provided."
+location = "CoWork Bozeman"
+map_url = "https://www.google.com/maps/search/?api=1&query=27+East+Main+Street%2C+Bozeman%2C+mt%2C+59715%2C+us"
 city = "Bozeman, MT"
 
 [[past_event]]
