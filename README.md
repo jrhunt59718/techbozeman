@@ -1,15 +1,15 @@
 # Tech Bozeman
 
-Tech Bozeman website, covering the tech community in Bozeman, Montana. Follow us on [twitter](https://twitter.com/techbozeman).
+Tech Bozeman website, covering the tech community in Bozeman, Montana.
 
 Built with [Hugo](https://gohugo.io/), a static site generator. It uses the
-[hyalite](https://github.com/techbozeman/hyalite) hugo theme.
+[hyalite](https://github.com/beaorn/hyalite) hugo theme.
 
 ## Contributing
 
 There are 3 methods for contributing:
 1. Fork the repository and create a pull request with a summary of the changes :)
-2. Or [open an issue here](https://github.com/techbozeman/techbozeman/issues) and document the requested changes
+2. Or [open an issue here](https://github.com/beaorn/techbozeman/issues) and document the requested changes
 3. Or if you are unfamilar with GitHub, submit a request from the [website's contact page](https://www.techbozeman.com/contact)
 
 Submissions to add or update listings, general improvements to the website, and ideas are much appreciated!
@@ -119,16 +119,6 @@ All fields are required.
 
 - **badge**: Primary type of space. Use one of the following: `Coworking`, `Office Space`, `Makerspace`
 - **image**: 400x200 jpg image of the space placed into [static/images/](static/images/)
-
-## Author
-
-[Bryce Johnston](https://github.com/beaorn)
-
-## Contributors
-
-- [Brian Maher](https://github.com/brianpmaher)
-- [Bob Wall](https://github.com/BobWall23)
-- [Leif Wickland](https://github.com/leifwickland)
 
 ## License
 

@@ -7,7 +7,7 @@ A local tech community theme for Hugo.
 To install Hyalite as your default theme, first install this repository in the `themes/` directory:
 
     $ cd themes/
-    $ git clone https://github.com/techbozeman/hyalite.git
+    $ git clone https://github.com/beaorn/hyalite.git
 
 Second, specify `hyalite` as your default theme in the `config.toml` file. Just add the line
 
