@@ -1,13 +1,4 @@
 [[event]]
-title = "TBD (Bozeman Laravel PHP Meetup)"
-date = "Wednesday, October 3, 2018"
-url = "https://www.meetup.com/Bozeman-Laravel/events/rkfqdnyxnbfb/"
-description = "Topic TBD"
-location = "TBD"
-map_url = "#"
-city = "Bozeman, MT"
-
-[[event]]
 title = "Bitcoin & Cryptocurrency Meetup"
 date = "Sunday, October 7, 2018"
 url = "https://www.meetup.com/Bozeman-Blockchain/events/254336639/"
@@ -26,6 +17,15 @@ map_url = "https://www.google.com/maps/search/?api=1&query=143+Willow+Peak+Drive
 city = "Bozeman, MT"
 
 [[event]]
+title = "Hacktoberfest Session 1 (Montana Programmers)"
+date = "Friday, October 12, 2018"
+url = "https://www.meetup.com/Montana-Programmers/events/255228507/"
+description = "This October a group of Montana Programmers are going to participate in Digital Ocean's Hacktoberfest event, https://hacktoberfest.digitalocean.com. There will be two Friday sessions (12th and 19th) and they will be at the CoWork Bozeman space Downtown. Participation is open to everyone and all skill levels are encouraged to come chip in."
+location = "CoWork Bozeman"
+map_url = "https://www.google.com/maps/search/?api=1&query=27+East+Main+Street%2C+Bozeman%2C+mt%2C+59715%2C+us"
+city = "Bozeman, MT"
+
+[[event]]
 title = "Bozeman JS Meetup"
 date = "Wednesday, October 17, 2018"
 url = "https://www.meetup.com/Bozeman-JavaScript-Meetup/events/xwhmgqyxnbxb/"
@@ -35,12 +35,39 @@ map_url = "https://www.meetup.com/Bozeman-JavaScript-Meetup/events/xwhmgqyxnbxb/
 city = "Bozeman, MT"
 
 [[event]]
+title = "Hacktoberfest Session 2 (Montana Programmers)"
+date = "Friday, October 19, 2018"
+url = "https://www.meetup.com/Montana-Programmers/events/255228514/"
+description = "This October a group of Montana Programmers are going to participate in Digital Ocean's Hacktoberfest event, https://hacktoberfest.digitalocean.com. There will be two Friday sessions (12th and 19th) and they will be at the CoWork Bozeman space Downtown. Participation is open to everyone and all skill levels are encouraged to come chip in."
+location = "CoWork Bozeman"
+map_url = "https://www.google.com/maps/search/?api=1&query=27+East+Main+Street%2C+Bozeman%2C+mt%2C+59715%2C+us"
+city = "Bozeman, MT"
+
+[[event]]
 title = "commonFont Drink-up (Montana Programmers)"
 date = "Tuesday, October 23, 2018"
 url = "https://www.meetup.com/Montana-Programmers/events/255003027/"
 description = "commonFont is graciously hosting our next Bozeman drink-up. Come and enjoy some food and drinks and learn about the commonFont team!"
 location = "commonFont"
 map_url = "https://www.google.com/maps/place/220+W+Lamme+St,+Bozeman,+MT+59715/@45.6811363,-111.0430949,17z/data=!3m1!4b1!4m5!3m4!1s0x534544503f5d5f07:0x24f64c5a1a479465!8m2!3d45.6811326!4d-111.0409062"
+city = "Bozeman, MT"
+
+[[event]]
+title = "Rubicon Project Drink-up (Montana Programmers)"
+date = "Wednesday, November 7, 2018"
+url = "https://www.meetup.com/Montana-Programmers/events/255228369/"
+description = "Rubicon Project is going to host Montana Programmers for a November Drink-up. Rubicon Project, https://rubiconproject.com, is a digital advertising infrastructure company with an Engineering office here in Bozeman. Swing by for some pizza and beverages and check out the projects and technologies that they have been working on recently."
+location = "Rubicon Project Office"
+map_url = "https://www.google.com/maps/search/?api=1&query=2006+Stadium+Drive+Suite+102%2C+Bozeman%2C+mt%2C+59715%2C+us"
+city = "Bozeman, MT"
+
+[[past_event]]
+title = "TBD (Bozeman Laravel PHP Meetup)"
+date = "Wednesday, October 3, 2018"
+url = "https://www.meetup.com/Bozeman-Laravel/events/rkfqdnyxnbfb/"
+description = "Topic TBD"
+location = "TBD"
+map_url = "#"
 city = "Bozeman, MT"
 
 [[past_event]]
