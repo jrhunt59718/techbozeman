@@ -1,4 +1,11 @@
 [[company]]
+name = "Arsenal"
+url = "https://witharsenal.com"
+color = "#80CBC4"
+description = "Arsenal's ultralight hardware uses state of the art AI to take better photos in any condition."
+badge ="Bozeman HQ"
+
+[[company]]
 name = "Beartooth"
 url = "https://beartooth.com"
 color = "#ff3900"

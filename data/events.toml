@@ -1,13 +1,4 @@
 [[event]]
-title = "Bitcoin & Cryptocurrency Meetup"
-date = "Sunday, October 7, 2018"
-url = "https://www.meetup.com/Bozeman-Blockchain/events/254336639/"
-description = "Bi-Weekly meetup to talk crypto and meet local crypto people"
-location = "Bozeman Public Library - small conference room"
-map_url = "https://www.google.com/maps/place/626+E+Main+St,+Bozeman,+MT+59715/@45.6785765,-111.0270906,17z/data=!4m5!3m4!1s0x5345445eebf8d59b:0x337118f2f410a9d8!8m2!3d45.6785765!4d-111.0270906"
-city = "Bozeman, MT"
-
-[[event]]
 title = "How To Add Data Privacy To Your Angular App (Montana Programmers)"
 date = "Wednesday, October 10, 2018"
 url = "https://www.meetup.com/Montana-Programmers/events/254871790/"
@@ -59,6 +50,15 @@ url = "https://www.meetup.com/Montana-Programmers/events/255228369/"
 description = "Rubicon Project is going to host Montana Programmers for a November Drink-up. Rubicon Project, https://rubiconproject.com, is a digital advertising infrastructure company with an Engineering office here in Bozeman. Swing by for some pizza and beverages and check out the projects and technologies that they have been working on recently."
 location = "Rubicon Project Office"
 map_url = "https://www.google.com/maps/search/?api=1&query=2006+Stadium+Drive+Suite+102%2C+Bozeman%2C+mt%2C+59715%2C+us"
+city = "Bozeman, MT"
+
+[[past_event]]
+title = "Bitcoin & Cryptocurrency Meetup"
+date = "Sunday, October 7, 2018"
+url = "https://www.meetup.com/Bozeman-Blockchain/events/254336639/"
+description = "Bi-Weekly meetup to talk crypto and meet local crypto people"
+location = "Bozeman Public Library - small conference room"
+map_url = "https://www.google.com/maps/place/626+E+Main+St,+Bozeman,+MT+59715/@45.6785765,-111.0270906,17z/data=!4m5!3m4!1s0x5345445eebf8d59b:0x337118f2f410a9d8!8m2!3d45.6785765!4d-111.0270906"
 city = "Bozeman, MT"
 
 [[past_event]]
