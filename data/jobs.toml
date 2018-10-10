@@ -1,4 +1,44 @@
 [[job]]
+title = "Senior Software Engineer ‐ OpenGL, C++"
+job_url = "http://www.teejet.com/CMSImages/Teejet/documents/careers/Senior-Software-Engineer-OpenGL.pdf"
+post_date = "October 4, 2018"
+description = "Based in BEAUTIFUL Bozeman, Montana we produce electronic precision farming products used worldwide. We're looking to add a Senior OpenGL Software Engineer to our team of developers."
+skills = "OpenGL, C++, Linux"
+company = "TeeJet Techolgies"
+company_url = "http://www.teejet.com/about/careers.aspx"
+city = "Bozeman, MT"
+
+[[job]]
+title = "Senior Software Engineer ‐ Spatial Data, C++"
+job_url = "http://www.teejet.com/CMSImages/Teejet/documents/careers/Senior-Software-Engineer-Geospatial.pdf"
+post_date = "October 4, 2018"
+description = "Based in BEAUTIFUL Bozeman, Montana we produce electronic precision farming products used worldwide. We're looking to add a Senior Software Engineer to our team of developers."
+skills = "Spatial data structures and algorithms, C++, Linux"
+company = "TeeJet Techolgies"
+company_url = "http://www.teejet.com/about/careers.aspx"
+city = "Bozeman, MT"
+
+[[job]]
+title = "Senior Embedded Software Engineer ‐ C++, Linux"
+job_url = "http://www.teejet.com/CMSImages/Teejet/documents/careers/Senior-Embedded-Software-Engineer.pdf"
+post_date = "October 4, 2018"
+description = "Based in BEAUTIFUL Bozeman, Montana we produce electronic precision farming products used worldwide. We're looking to add a Senior Embedded Software Engineer to our team of developers."
+skills = "Embedded Systems/Software Architecture, C++, Linux, QT"
+company = "TeeJet Techolgies"
+company_url = "http://www.teejet.com/about/careers.aspx"
+city = "Bozeman, MT"
+
+[[job]]
+title = "Embedded Software Architect ‐ C++, Linux"
+job_url = "http://www.teejet.com/CMSImages/Teejet/documents/careers/Embedded-Software-Architect.pdf"
+post_date = "October 4, 2018"
+description = "Based in BEAUTIFUL Bozeman, Montana we produce electronic precision farming products used worldwide. We're looking to add an Embedded Software Architect to our team of developers."
+skills = "Embedded Systems/Software Architecture, C++, Linux, QT"
+company = "TeeJet Techolgies"
+company_url = "http://www.teejet.com/about/careers.aspx"
+city = "Bozeman, MT"
+
+[[job]]
 title = "Senior DevOps Engineer"
 job_url = "https://boards.greenhouse.io/figure/jobs/4071208002"
 post_date = "September 25, 2018"

@@ -139,6 +139,13 @@ description = "Schedulicity is the leading online appointment, class and worksho
 badge = "Bozeman HQ"
 
 [[company]]
+name = "TeeJet Technologies"
+url = "http://www.teejet.com"
+color = "#0066a4"
+description = "TeeJet Technologies designs and manufactures products for a wide range of agricultural, turf, and right-of-way spraying and spreading applications."
+badge = ""
+
+[[company]]
 name = "Wisetail"
 url = "https://www.wisetail.com"
 color = "#60CE94"
