@@ -55,6 +55,13 @@ description = "IronCore is a development platform for end-to-end data control, p
 badge = ""
 
 [[company]]
+name = "JTech Communications"
+url = "https://www.jtechcommunications.com"
+color = "#0a639c"
+description = "JTech is a web development and digital marketing company that creates custom software and acts as a trusted partner for our clients so they can improve their bottom line."
+badge = "Bozeman HQ"
+
+[[company]]
 name = "Little Apple Technologies"
 url = "https://www.littleappletech.com"
 color = "#f44336"

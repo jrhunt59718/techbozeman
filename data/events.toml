@@ -1,13 +1,4 @@
 [[event]]
-title = "How To Add Data Privacy To Your Angular App (Montana Programmers)"
-date = "Wednesday, October 10, 2018"
-url = "https://www.meetup.com/Montana-Programmers/events/254871790/"
-description = "Madison Kerndt is going to present on privacy in Angular apps. Even the coolest user interfaces won’t cover for apps that are insecure and leak private information. As JavaScript developers, we need to build apps that stand up to the demands of our industry and protects the data and privacy of our users."
-location = "Foundant Technologies"
-map_url = "https://www.google.com/maps/search/?api=1&query=143+Willow+Peak+Drive%2C+Bozeman%2C+MT%2C+us"
-city = "Bozeman, MT"
-
-[[event]]
 title = "Hacktoberfest Session 1 (Montana Programmers)"
 date = "Friday, October 12, 2018"
 url = "https://www.meetup.com/Montana-Programmers/events/255228507/"
@@ -50,6 +41,15 @@ url = "https://www.meetup.com/Montana-Programmers/events/255228369/"
 description = "Rubicon Project is going to host Montana Programmers for a November Drink-up. Rubicon Project, https://rubiconproject.com, is a digital advertising infrastructure company with an Engineering office here in Bozeman. Swing by for some pizza and beverages and check out the projects and technologies that they have been working on recently."
 location = "Rubicon Project Office"
 map_url = "https://www.google.com/maps/search/?api=1&query=2006+Stadium+Drive+Suite+102%2C+Bozeman%2C+mt%2C+59715%2C+us"
+city = "Bozeman, MT"
+
+[[past_event]]
+title = "How To Add Data Privacy To Your Angular App (Montana Programmers)"
+date = "Wednesday, October 10, 2018"
+url = "https://www.meetup.com/Montana-Programmers/events/254871790/"
+description = "Madison Kerndt is going to present on privacy in Angular apps. Even the coolest user interfaces won’t cover for apps that are insecure and leak private information. As JavaScript developers, we need to build apps that stand up to the demands of our industry and protects the data and privacy of our users."
+location = "Foundant Technologies"
+map_url = "https://www.google.com/maps/search/?api=1&query=143+Willow+Peak+Drive%2C+Bozeman%2C+MT%2C+us"
 city = "Bozeman, MT"
 
 [[past_event]]
