@@ -179,3 +179,10 @@ url = "https://zootsolutions.com"
 color = "#425aa8"
 description = "Zoot Enterprises is a global provider of advanced origination, acquisition and decision management solutions for financial institutions."
 badge = "Bozeman HQ"
+
+[[company]]
+name = "Zinovo"
+url = "https://www.zinovo.com"
+color = "#a6c34d"
+description = "Zinovo is a US-based Salesforce Managed Service and Support Consultancy. We provide full platform support for Sales, Service, App, Community, Pardot and Marketing Cloud.
+badge = "Bozeman HQ"
