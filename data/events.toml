@@ -1,13 +1,4 @@
 [[event]]
-title = "Hacktoberfest Session 1 (Montana Programmers)"
-date = "Friday, October 12, 2018"
-url = "https://www.meetup.com/Montana-Programmers/events/255228507/"
-description = "This October a group of Montana Programmers are going to participate in Digital Ocean's Hacktoberfest event, https://hacktoberfest.digitalocean.com. There will be two Friday sessions (12th and 19th) and they will be at the CoWork Bozeman space Downtown. Participation is open to everyone and all skill levels are encouraged to come chip in."
-location = "CoWork Bozeman"
-map_url = "https://www.google.com/maps/search/?api=1&query=27+East+Main+Street%2C+Bozeman%2C+mt%2C+59715%2C+us"
-city = "Bozeman, MT"
-
-[[event]]
 title = "Bozeman JS Meetup"
 date = "Wednesday, October 17, 2018"
 url = "https://www.meetup.com/Bozeman-JavaScript-Meetup/events/xwhmgqyxnbxb/"
@@ -41,6 +32,15 @@ url = "https://www.meetup.com/Montana-Programmers/events/255228369/"
 description = "Rubicon Project is going to host Montana Programmers for a November Drink-up. Rubicon Project, https://rubiconproject.com, is a digital advertising infrastructure company with an Engineering office here in Bozeman. Swing by for some pizza and beverages and check out the projects and technologies that they have been working on recently."
 location = "Rubicon Project Office"
 map_url = "https://www.google.com/maps/search/?api=1&query=2006+Stadium+Drive+Suite+102%2C+Bozeman%2C+mt%2C+59715%2C+us"
+city = "Bozeman, MT"
+
+[[past_event]]
+title = "Hacktoberfest Session 1 (Montana Programmers)"
+date = "Friday, October 12, 2018"
+url = "https://www.meetup.com/Montana-Programmers/events/255228507/"
+description = "This October a group of Montana Programmers are going to participate in Digital Ocean's Hacktoberfest event, https://hacktoberfest.digitalocean.com. There will be two Friday sessions (12th and 19th) and they will be at the CoWork Bozeman space Downtown. Participation is open to everyone and all skill levels are encouraged to come chip in."
+location = "CoWork Bozeman"
+map_url = "https://www.google.com/maps/search/?api=1&query=27+East+Main+Street%2C+Bozeman%2C+mt%2C+59715%2C+us"
 city = "Bozeman, MT"
 
 [[past_event]]
